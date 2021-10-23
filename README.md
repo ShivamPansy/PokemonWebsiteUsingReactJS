@@ -1,3 +1,6 @@
+I havent added node modules folder in this repository and will try to add it soon.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
